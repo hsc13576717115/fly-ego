@@ -6,6 +6,16 @@
 
 ![drone](misc/单机图片.jpg)
 
+## 演示视频
+
+点击下方预览图观看项目演示视频。
+
+<a href="media/fly-ego-demo.mp4">
+  <img src="media/fly-ego-demo.jpg" alt="fly-ego 演示视频" width="360">
+</a>
+
+[观看 / 下载视频](media/fly-ego-demo.mp4)
+
 ## 项目定位
 
 我把这个仓库作为自己的无人机项目实践记录，重点不在“重新发明全部算法”，而在于把开源方案真正落到一台可装配、可联调、可起飞、可规划的实机平台上。
