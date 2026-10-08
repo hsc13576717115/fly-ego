@@ -8,7 +8,13 @@
 
 ## 演示视频
 
-fly-ego 项目演示。
+点击下方预览图观看项目演示视频。
+
+<a href="media/fly-ego-demo.mp4">
+  <img src="media/fly-ego-demo.jpg" alt="fly-ego 演示视频" width="360">
+</a>
+
+[观看 / 下载视频](media/fly-ego-demo.mp4)
 
 ## 项目定位
 
